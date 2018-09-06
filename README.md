@@ -9,7 +9,7 @@ Usage in PHPStorm
 -----------------
 
 * Download latest version: [SimplePlugin-v0.3.zip](http://aurelijus.banelis.lt/intellij/SimplePlugin-v0.3.zip)
-* Settings -> Plugns -> Install from file system. Restart PHPStorm
+* Settings -> Plugins -> Install from file system. Restart PHPStorm
 * _CTRL+SPACE_ inside array keys.
 
 **PHP Code example:**
